@@ -14,8 +14,8 @@
 [Landingfolio](https://www.landingfolio.com/): Landingfolio features the best landing page inspiration, templates, resources and examples on the web. 
 
 ## Stock Media
-Mixkit: Awesome Stock Video Clips, Stock Music, Sound Effects & Video Templates. All available for free!
-
 [Unsplash](https://unsplash.com/): The internet’s source of freely-usable images. Powered by creators everywhere.
+
 [Pexels](https://www.pexels.com/): Free stock photos you can use everywhere. ✓ Free for commercial use ✓ No attribution required.
+
 [Coverr](https://coverr.co/): Beautiful Free Stock Video Footage.
