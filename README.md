@@ -8,6 +8,9 @@
 
 [Khroma](Khroma): Khroma uses AI to learn which colors you like and creates limitless palettes for you to discover, search, and save.
 
+## Fonts
+[FontShare](https://www.fontshare.com/)
+
 ## Inspiration
 [Mobbin](https://mobbin.design/): A hand-picked collection of the latest mobile design patterns from apps that reflect the best in design. 
 
